@@ -2,7 +2,7 @@
 
 git checkout main
 
-git pull
+git pull origin main
 
 git checkout -b `uname -n`-`date "+%Y%m%d_%H%M"`
 
